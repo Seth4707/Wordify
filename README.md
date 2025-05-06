@@ -1,12 +1,22 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Wordify - Dictionary App
 
-Currently, two official plugins are available:
+A modern, responsive dictionary web application built with React and Vite. Wordify allows users to search for word definitions, hear pronunciations, save favorites, and track search history.
+## Features
+- **Word Definitions**: Comprehensive definitions with phonetics, meanings, and examples
+- **Audio Pronunciation**: Listen to correct pronunciation when available
+- **Word of the Day**: Discover a new word daily
+- **Dark/Light Mode**: Toggle between themes based on preference
+- **Favorites System**: Save your favorite words for quick access
+- **Search History**: Track and revisit your previous searches
+- **Responsive Design**: Optimized for both mobile and desktop experiences
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📱 Mobile-First Approach
 
-## Expanding the ESLint configuration
+Wordify is designed with a mobile-first approach, ensuring a great experience on devices of all sizes:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Responsive layout that adapts to screen size
+- Touch-friendly interface
+- Optimized performance for mobile devices
+- Dropdown navigation menu on small screens
+
